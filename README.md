@@ -1,4 +1,4 @@
-# Fruit-Classification usig Artificial Intelligence
+# Fruit-Classification using Artificial Intelligence
 
 ## PROJECT SCOPE
 
